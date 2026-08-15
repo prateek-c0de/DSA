@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prateek-c0de/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/prateek-c0de/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prateek-c0de/DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/prateek-c0de/DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/prateek-c0de/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/prateek-c0de/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/prateek-c0de/DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prateek-c0de/DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
