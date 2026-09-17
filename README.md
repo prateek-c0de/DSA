@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prateek-c0de/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/prateek-c0de/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prateek-c0de/DSA/tree/master/0217-contains-duplicate) |
+| [0540-single-element-in-a-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/prateek-c0de/DSA/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
