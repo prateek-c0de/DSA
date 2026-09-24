@@ -1,14 +1,13 @@
-void moveZeroes(int* nums, int n) {
-    int i=0;
+void moveZeroes(int* nums, int numsSize) {
+    int i=0,j;
+    int temp = 0;
     
-    for(int j=0;j<n;j++){
-        if(nums[j] != 0){
+    for(i=0;i<numsSize;i++){
+        if(nums[i] != 0){
+            temp = nums[i];
             nums[i] = nums[j];
-            i++;
+            nums[j] = temp;
+            j++;
         }
-    }
-    while(i < n){
-        nums[i]=0;
-        i++;
     }
 }
