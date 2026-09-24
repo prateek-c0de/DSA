@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prateek-c0de/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prateek-c0de/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/prateek-c0de/DSA/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/prateek-c0de/DSA/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek-c0de/DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/prateek-c0de/DSA/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/prateek-c0de/DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/prateek-c0de/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/prateek-c0de/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
