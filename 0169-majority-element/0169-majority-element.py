@@ -1,16 +1,12 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        freq = {}
-        for num in nums:
-            if num in freq:
-                freq[num] +=1
+class Solution:
+    def majorityElement(self, nums: list[int]) -> int:
+        d = {}
+
+        for i in nums:
+            if i in d:
+                d[i] += 1
             else:
-                freq[num] = 1
-        
-        for key in freq:
-            if freq[key] > len(nums)//2:
-                return key
+                d[i] = 1
+        for i in d:
+            if d[i] > len(nums)//2:
+                return i
