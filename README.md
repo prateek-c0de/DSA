@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prateek-c0de/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/prateek-c0de/DSA/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/prateek-c0de/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/prateek-c0de/DSA/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/prateek-c0de/DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/prateek-c0de/DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/prateek-c0de/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/prateek-c0de/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/prateek-c0de/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/prateek-c0de/DSA/tree/master/0242-valid-anagram) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prateek-c0de/DSA/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prateek-c0de/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
