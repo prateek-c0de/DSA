@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prateek-c0de/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prateek-c0de/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prateek-c0de/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/prateek-c0de/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek-c0de/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prateek-c0de/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/prateek-c0de/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/prateek-c0de/DSA/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
