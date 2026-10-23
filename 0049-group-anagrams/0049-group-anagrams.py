@@ -1,13 +1,13 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        groups = defaultdict(list)
-
-        for word in strs:
-            key = "".join(sorted(word))
-            groups[key].append(word)
-
-        return list(groups.values())
+class Solution:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        hmap = {}
+        for s in strs:
+            y = " ".join(sorted(s))
+            if y not in hmap:
+                hmap[y] = [s]
+            else:
+                hmap[y].append(s)
+        result=[]
+        for s in hmap:
+            result.append(hmap[s])
+        return result
