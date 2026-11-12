@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prateek-c0de/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/prateek-c0de/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek-c0de/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/prateek-c0de/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/prateek-c0de/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prateek-c0de/DSA/tree/master/0217-contains-duplicate) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prateek-c0de/DSA/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek-c0de/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
