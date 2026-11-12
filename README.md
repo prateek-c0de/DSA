@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/prateek-c0de/DSA/tree/master/1929-concatenation-of-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prateek-c0de/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek-c0de/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/prateek-c0de/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prateek-c0de/DSA/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
