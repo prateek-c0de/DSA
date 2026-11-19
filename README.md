@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prateek-c0de/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prateek-c0de/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1929-concatenation-of-array](https://github.com/prateek-c0de/DSA/tree/master/1929-concatenation-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/prateek-c0de/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/prateek-c0de/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/prateek-c0de/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -146,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prateek-c0de/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
