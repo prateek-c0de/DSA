@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prateek-c0de/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/prateek-c0de/DSA/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/prateek-c0de/DSA/tree/master/0441-arranging-coins) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prateek-c0de/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/prateek-c0de/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-c0de/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prateek-c0de/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prateek-c0de/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1929-concatenation-of-array](https://github.com/prateek-c0de/DSA/tree/master/1929-concatenation-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-c0de/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-c0de/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prateek-c0de/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prateek-c0de/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prateek-c0de/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/prateek-c0de/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prateek-c0de/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-c0de/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prateek-c0de/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prateek-c0de/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/prateek-c0de/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
